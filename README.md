@@ -6,8 +6,6 @@
   </a>
 </p>
 
-## 🖼 Preview
-
 ![Preview 1](Screen/preview-1.png)
 ![Preview 2](Screen/preview-2.png)
 ![Preview 3](Screen/preview-3.png)
