@@ -6,12 +6,10 @@
   </a>
 </p>
 
-## 🖼 Preview
-
-![Preview 1](Screen/Screenshot 2026-02-09 113907.png)
-![Preview 2](Screen/Screenshot 2026-02-09 114229.png)
-![Preview 3](Screen/Screenshot 2026-02-09 114551.png)
-![Preview 4](Screen/Screenshot 2026-02-09 114638.png)
+![Preview 1](Screen/preview-1.png)
+![Preview 2](Screen/preview-2.png)
+![Preview 3](Screen/preview-3.png)
+![Preview 4](Screen/preview-4.png)
 
 ## 📌 Description
 Responsive travel website built with HTML5 & CSS3.
