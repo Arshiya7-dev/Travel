@@ -12,7 +12,7 @@
 ![Preview 4](Screen/preview-4.png)
 
 ## 📌 Description
-Responsive travel website built with HTML5 & CSS3.
+ travel website built with HTML5 & CSS3.
 
 ## 🛠 Built With
 - HTML5
